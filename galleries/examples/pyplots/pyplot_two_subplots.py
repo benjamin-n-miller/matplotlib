@@ -35,3 +35,8 @@ plt.show()
 #
 #    - `matplotlib.pyplot.figure`
 #    - `matplotlib.pyplot.subplot`
+# 
+# .. tags
+#    level: beginner
+#    plot-type: lines
+#    component: pyplot

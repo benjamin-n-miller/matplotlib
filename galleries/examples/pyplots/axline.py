@@ -57,3 +57,9 @@ plt.show()
 #
 #    `~.Axes.axhspan`, `~.Axes.axvspan` draw rectangles that span the Axes in one
 #    direction and are bounded in the other direction.
+
+# .. tags:: 
+#    
+#    level: beginner
+#    plot-type: line
+#    component: pyplot

@@ -39,3 +39,9 @@ plt.show()
 #    - `matplotlib.pyplot.text`
 #    - `matplotlib.pyplot.grid`
 #    - `matplotlib.pyplot.show`
+
+# .. tags::
+#  
+#    level: beginner
+#    plot-type: line
+#    component: pyplot

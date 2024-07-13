@@ -24,3 +24,8 @@ plt.show()
 #    in this example:
 #
 #    - `matplotlib.axes.Axes.plot` / `matplotlib.pyplot.plot`
+# 
+# .. tags:: 
+#    level: beginner
+#    plot-type: line
+#    component: pyplot

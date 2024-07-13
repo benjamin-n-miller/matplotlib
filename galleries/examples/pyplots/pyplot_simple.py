@@ -27,3 +27,8 @@ plt.show()
 #    - `matplotlib.pyplot.plot`
 #    - `matplotlib.pyplot.ylabel`
 #    - `matplotlib.pyplot.show`
+
+# .. tags:: 
+#    level: beginner
+#    plot-type: line
+#    component: pyplot 
